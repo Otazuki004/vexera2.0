@@ -31,27 +31,27 @@
       "TOKEN": {
          "description": "Your bot token. Get one from @BotFather duh",
          "required": true,
-         "value": ""
+         "value": "5790240179:AAGtC78yVTylHafVAtVee4ESwB5qKLmjjPk"
       },
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "10187126"
       },
       "API_HASH": {
          "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "ff197c0d23d7fe54c89b44ed092c1752"
       },    
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1151132400"
+         "value": "1985665341"
      },
 
       "STRING_SESSION": {
          "description": "Fill with telethon string session.",
-         "required": true,
+         "required": false,
          "value": "" 
       },
       "HEROKU_API_KEY": {
@@ -64,7 +64,7 @@
       },
       "BOT_USERNAME": {
          "description": "username of your bot without the @",
-         "value": "ShuKurenaiXRoBot"
+         "value": "vexera_50_bot"
       },
 
       "BOT_ID": {
@@ -74,12 +74,12 @@
 
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "DeepakJack007"
+         "value": "otazuki_004"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "ShuKurenaiSupport"
+         "value": "wesupport004"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -97,12 +97,12 @@
      "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-1001621342394"
+         "value": "-1001681859325"
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-1001621342394"
+         "value": "-1001681859325"
       },      
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
@@ -124,12 +124,12 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Masha support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": ""
+         "value": "1985665341"
      },
       "ERROR_LOG": {
          "description": "ID of log for show error.",
          "required": false,
-         "value": ""
+         "value": "-1001681859325"
      },
         "ARQ_API": {
             "description": "Get this from @ARQRobot.",
@@ -181,7 +181,7 @@
       },
       "URL": {
          "description": "The Heroku App URL :-  https://<appname>.herokuapp.com/",
-         "required": false,
+         "required": true,
          "value": ""
       },
       "NO_LOAD": {
