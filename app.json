@@ -1,5 +1,5 @@
 {
-      "name": "ShuKurenaiXRoBot",
+      "name": "vexera",
       "description": "A Powerful  Telegram group management bot with anime theme.",
       "keywords": [
          "telegram",
@@ -69,7 +69,7 @@
 
       "BOT_ID": {
          "description": "to get your bot_id using other bot or userbot",
-         "value": ""
+         "value": "5790240179"
       },
 
       "OWNER_USERNAME": {
