@@ -1,48 +1,72 @@
-<p align="center">
-  <img src="http://telegra.ph/file/0adf9e97735ba8a420973.jpg">
+#  ʜʏᴅʀᴀ [ ʙᴇᴛᴀ ]
+[![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) [![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/Awesome-Prince/NekoRobot-3/?ref=repository-badge) [![Join Support!](https://img.shields.io/badge/Join%20Channel-!-red)](https://telegram.dog/Updates004) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/Awesome-Prince/NekoRobot-3/graphs/contributors/)
+
+A modular telegram Python bot running on python3 with an Sqlalchemy, mongodb database.
+
+###  ╔═━「 Status 」
+
+- [x] Maintained
+- [x] Support Group Available
+- [x] Free
+- [x] OpenSourced
+- [x] Working Instance Available
+- [x] Clean Code
+- [x] Heroku Deploy
+- [x] Docker/Local Machine
+
+╘═━「 Can be found on telegram as [Hydra](https://telegram.dog/Hydra_50_bot) 」
+
+## ╔═━「 Credits 」
+The bot is based of on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
+This repo was just reamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
+
+### ╔═━「 Creator Info/Credits 」
+
++ [OTAZUKI](https://telegram.dog/otazuki_004) : OWNER | DEV
++ [GT ASH](https://telegram.dog/Awesome_GtashXD) : ASSISTANT | FRIEND
+
+╘═━「 Any other authorship/credits can be seen through the commits. 」
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+The Support group can be reached out to at [Hydra • Support](https://telegram.dog/weSupport004) where you can ask for help about [HYDRA](https://telegram.dog/hydra_50_bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+
+<details>
+	<summary>Deploy Options</summary>
+<a href="https://cloud.okteto.com/#/deploy?repository=https://github.com/Otazuki004/Hydradeployment2.0"><img src="https://user-images.githubusercontent.com/36935426/167272305-91fd67c9-c3fc-4b4b-8a73-c35e57c8fcc5.png" height="40"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Otazuki004/Hydradeployment2.0"><img src="https://www.herokucdn.com/deploy/button.svg" height="40"></a>
+<a href="https://railway.app"><img src="https://railway.app/button.svg" height="40"></a>
+</details> 
+
+<details>
+    <summary>More Deploy Options</summary>
+    <br>
+    <p align="center">
+
+    Deploying on Local Machine
+
 </p>
 
-<h4><p align="center"> 𝐒𝐡𝐮𝐊𝐮𝐫𝐞𝐧𝐚𝐢𝐗𝐑𝐨𝐁𝐨𝐭 </p></h4>
-
-<p align="center">ShuKurenaiXRoBot is a modular bot running on python3 with anime theme and have a lot features.</p>
-
-<p align="center">
-<a href="https://t.me/ShuKurenaiXRoBot"> <img src="https://img.shields.io/badge/ShuKurenaiXRoBot-blue?&logo=telegram" alt="ShuKurenaiXRoBot on Telegram" /> </a><br>
-<a href="https://python-telegram-bot.org"> <img src="https://img.shields.io/badge/PTB-13.10-white?&style=flat-round&logo=github" alt="Python Telegram Bot" /> </a>
-<a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a><br>
-<a href="https://docs.telethon.dev"> <img src="https://img.shields.io/badge/Telethon-1.24.0-red?&style=flat-round&logo=github" alt="Telethon" /> </a>
-<a href="https://docs.python.org"> <img src="https://img.shields.io/badge/Python-3.10.1-purple?&style=flat-round&logo=python" alt="Python" /> </a><br>
-<a href="https://github.com/DeepakJackSon/ShuKurenaiXRoBot"> <img src="https://img.shields.io/badge/Maintained-Yash-yellow.svg" alt="Maintenance" /> </a><br>
-<a href="https://github.com/DeepakJackSon/ShuKurenaiXRoBot/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License" /> </a>
-<a href="https://makeapullrequest.com"> <img src="https://img.shields.io/badge/PRs-Welcome-blue.svg?style=flat-round" alt="PRs" /> </a>
-</p>
-
-### Easiest Way To Deploy On Heroku 
-
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/DeepakJackSon/ShuKurenaiXRoBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
+```console
+    ~$ git clone https://github.com/Awesome-Prince/NekoRobot-3.git
+    ~$ cd NekoRobot
+    ~$ cp sample_config.py config.py
 ```
-This Bot is Created by shukurenai007, If your kanging this without fork at least give a credit to get a smile of my hard work. 
-- ShuKurenaiXRoBot
-- EmikoRobot
-- YoneRobot
-- SaitamaRobot 
-- TheRealPhoenixBot
-- DaisyX 
-- WilliamButcherBot
-```
 
-### Support
-<p>
-<a href="https://t.me/ShuKurenaiXRoBot"> <img src="https://img.shields.io/badge/Telegram-RoBot-blue?&logo=telegram" alt="Telegram RoBot" /> </a><br>
-<a href="https://t.me/ShuKurenaiSupport"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a><br>
-<a href="https://t.me/shukurenai007"> <img src="https://img.shields.io/badge/Update-Channel-blue?&logo=telegram" alt="Update Channel" /> </a><br>
+Edit Config.py with your own Values
+
+Start with ```python3 -m NekoRobot```
+
+</details>    
+
+<details>
+     <summary>Deploying On IDE VMs Like Repl.it</summary>
+       <br>
+         <p align="left">
+            <b> 
+
+            Refer to Deploying On Local Machine.
+
+ </b>
 </p>
-
-## Credit 
-
-• [DeepakJack](https://github.com/DeepakJack007)``Dev``
-
-• [Kishore](https://github.com/AASFCYBERKING)``Dev``
-
-• [Nandha](https://github.com/Ctzfamily)``Dev``
+</details>
